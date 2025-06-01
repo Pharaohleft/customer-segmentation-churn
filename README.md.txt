@@ -17,13 +17,13 @@ This project applies advanced analytics and machine learning to identify high-va
 ## Dataset
 - Online Retail II dataset from UCI and Kaggle
 
-## Documentation
-- [Full Project Report](./docs/Group 24_Blackbook_removed.pdf)
 
 ## Learning Outcomes
 - End-to-end ML pipeline development
 - Business insights from customer behavior data
 
+Our Research Paper “Data Driven Growth Model for Customer Acquisition and Retention”
+was submitted in 2nd Series of IEEE ICONAT(The International Conference for Intelligent
+Technologies), Hubballi, Karnataka, India. 
 ---
 
-*Final year Computer Engineering project at Don Bosco Institute of Technology, Mumbai.*
